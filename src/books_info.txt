@@ -1,0 +1,31 @@
+ID	Title	Language	Quantity	Author	Published_year
+1	"The Hunger Games (The Hunger Games, #1)"	eng	3	Suzanne Collins	2008
+2	"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"	eng	2	"J.K. Rowling, Mary GrandPr??"	1997
+3	"Twilight (Twilight, #1)"	en-US	5	Stephenie Meyer	2005
+4	To Kill a Mockingbird	eng	7	Harper Lee	1960
+5	The Great Gatsby	eng	2	F. Scott Fitzgerald	1925
+6	The Fault in Our Stars	eng	3	John Green	2012
+7	The Hobbit	en-US	8	J.R.R. Tolkien	1937
+8	The Catcher in the Rye	eng	2	J.D. Salinger	1951
+9	"Angels & Demons  (Robert Langdon, #1)"	en-CA	1	Dan Brown	2000
+10	Pride and Prejudice	eng	2	Jane Austen	1813
+11	The Kite Runner	eng	3	Khaled Hosseini	2003
+12	"Divergent (Divergent, #1)"	eng	1	Veronica Roth	2011
+13	1984	eng	2	"George Orwell, Erich Fromm, Cel?›l ??ster"	1949
+14	Animal Farm	eng	4	George Orwell	1945
+15	The Diary of a Young Girl	eng	5	"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday"	1947
+32	Of Mice and Men	eng	3	John Steinbeck	1937
+33	Memoirs of a Geisha	eng	2	Arthur Golden	1997
+34	"Fifty Shades of Grey (Fifty Shades, #1)"	eng	1	E.L. James	2011
+35	The Alchemist	eng	2	"Paulo Coelho, Alan R. Clarke"	1988
+36	"The Giver (The Giver, #1)"	eng	3	Lois Lowry	1993
+37	"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)"	eng	4	C.S. Lewis	1950
+38	The Time Traveler's Wife	eng	5	Audrey Niffenegger	2003
+39	"A Game of Thrones (A Song of Ice and Fire, #1)"	eng	3	George R.R. Martin	1996
+40	"Eat, Pray, Love"	eng	2	Elizabeth Gilbert	2006
+41	"The Lightning Thief (Percy Jackson and the Olympians, #1)"	eng	1	Rick Riordan	2005
+42	"Little Women (Little Women, #1)"	en-US	2	Louisa May Alcott	1868
+43	Jane Eyre	eng	3	"Charlotte Bront?®, Michael Mason"	1847
+44	"The Notebook (The Notebook, #1)"	eng	4	Nicholas Sparks	1996
+45	Life of Pi	eng	1	Yann Martel	2001
+46	Water for Elephants	eng	2	Sara Gruen	2006
