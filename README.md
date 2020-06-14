@@ -20,31 +20,34 @@ and many others.
 
 ### Overview:
 
-* Start the application by running the [Welcome.java](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/src/library/Welcome.java) file. It contains a header image which I placed on a separate panel and side orange stripe. It contains 2 buttons. 
--- *Admin*: It will lead us to admin's page. 
--- *Student*: It will lead us to student’s page.
+* Start the application by running the [Welcome.java](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/src/library/Welcome.java) file. It contains a header image which I placed on a separate panel and side orange stripe. It contains 2 buttons.
+  * *Admin*: It will lead us to admin's page.
+  * *Student*: It will lead us to student’s page.
 
-*  On clicking `Admin` button, we’ll get the frame where we can log in. For this project, I added only one admin account. Program for this is in [Admin_login.java](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/src/library/Admin_login.java) 
-*Username* : Admin 
-*Password* : passwd123 
-`Home` button will lead us to the Home page.
+
+*  On clicking `Admin` button, we’ll get the frame where we can log in. For this project, I added only one admin account. Program for this is in [Admin_login.java](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/src/library/Admin_login.java). `Home` button will lead us to the Home page.
+   * *Username* : Admin
+   * *Password* : passwd123
+
 
 * After logging in, In the next frame, we’ll have 4 options. The program file is [Admin_page.java](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/src/library/Admin_page.java).
- -- `Add book`
--- `Issue book`
--- `Return book`
--- `Logout`
+   * `Add book`
+   * `Issue book`
+   * `Return book`
+   * `Logout`
+
 
 * `Add book`
 The ID of the book will be automatically generated once we add the book. Use the given data to test: 
 
-Title | Author | Year | Language
---- | --- | --- | ---
-The Fellowship of the Ring (The Lord of the Rings, #1) | J.R.R. Tolkien | 1954 | eng
-Mockingjay (The Hunger Games, #3) | Suzanne Collins | 2010 | eng
-Harry Potter and the Order of the Phoenix (Harry Potter, #5) | J.K. Rowling, Mary GrandPrA | 2003 | eng
-The Lovely Bones | Alice Sebold | 2002 | eng
-Harry Potter and the Chamber of Secrets (Harry Potter, #2) | J.K. Rowling, Mary GrandPrA | 1998 | eng
+    Title | Author | Year | Language
+    --- | --- | --- | ---
+    The Fellowship of the Ring (The Lord of the Rings, #1) | J.R.R. Tolkien | 1954 | eng
+    Mockingjay (The Hunger Games, #3) | Suzanne Collins | 2010 | eng
+    Harry Potter and the Order of the Phoenix (Harry Potter, #5) | J.K. Rowling, Mary GrandPrA | 2003 | eng
+    The Lovely Bones | Alice Sebold | 2002 | eng
+    Harry Potter and the Chamber of Secrets (Harry Potter, #2) | J.K. Rowling, Mary GrandPrA | 1998 | eng
+
 
 * `Issue Book`
     It will take ID as input and gives the details of respective book details from the records after clicking the `Check Availability` button. 
