@@ -2,6 +2,8 @@
 
 It is an application that performs the basic operations in a library. 
 
+For more details check out this [pdf](https://github.com/Yashi1011/Library-Books-Issue-and-Renewal-System/blob/master/Report.pdf)
+
 ### Performs the following functionalities:
 * Search for the book’s availability.
 * Admins have special authorities.
